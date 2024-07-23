@@ -1,6 +1,10 @@
 # 👋 Hi there! I'm [choisoomin]!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcsm0062%2Fcsm0062.git&count_bg=%234FDE9D&title_bg=%23555555&icon=&icon_color=%232E72D8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href='https://ifh.cc/v-vAvx7V' target='_blank'><img src='https://ifh.cc/g/vAvx7V.jpg' border='0'></a>
+<div>
+  <a href='https://ifh.cc/v-vAvx7V' target='_blank'>
+    <img src='https://ifh.cc/g/vAvx7V.jpg' border='0' width='410' height='400'>
+  </a>
+</div>
 
 ## 📱 Contact with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
