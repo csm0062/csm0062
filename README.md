@@ -21,9 +21,6 @@
 
 </details>
 
-<br>
----
-<br>
 
 <details>
 <summary>
@@ -38,9 +35,7 @@
 
 </details>
 
-<br>
----
-<br>
+
 
 <details>
 <summary>
@@ -54,9 +49,6 @@
 
 </details>
 
-<br>
----
-<br>
 
 <details>
 <summary>
@@ -82,10 +74,6 @@
 </details>
 
 
-<br>
----
-<br>
-
 <details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> ## 🎮 Games
@@ -96,9 +84,6 @@
 </details>
 
 
-<br>
----
-<br>
 
 <details>
 <summary>
@@ -109,9 +94,7 @@
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
 </details>
 
-<br>
----
-<br>
+
 
 <details>
 <summary>
@@ -127,10 +110,6 @@
 </details>
 
 
-
-<br>
----
-<br>
 
 <details>
 <summary>
@@ -155,9 +134,6 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </details>
 
-<br>
----
-<br>
 
 <details>
 <summary>
@@ -168,7 +144,6 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=csm0062)](https://solved.ac/csm0062)
 </details>
-
 
 
 <details>
