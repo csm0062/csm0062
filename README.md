@@ -84,7 +84,6 @@
 </details>
 
 
-
 <details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> ## 🎶 Sound
@@ -93,7 +92,6 @@
   <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
 </details>
-
 
 
 <details>
@@ -110,7 +108,6 @@
 </details>
 
 
-
 <details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> ## ⚡ Database
@@ -119,10 +116,6 @@
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
 </details>
-
-<br>
----
-<br>
 
 <details>
 <summary>
@@ -154,7 +147,6 @@
   ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=csm0062&show_icons=true&theme=radical)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csm0062&layout=compact&theme=radical)
 </details>
-
 
 
 <details>
