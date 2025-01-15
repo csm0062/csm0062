@@ -13,7 +13,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csm0062" alt="trophy"></a>
 </p>
 
-<h3 align="center">📱 Contact with me 📱</h3>
+<h2 align="center">📱 Contact with me 📱</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/soomin-choi-965544342"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/chiosoom/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/chiosoom/"/></a>&nbsp
@@ -22,7 +22,7 @@
 </p>
 
 
-<h3 align="center">🤜 Group 🤛</h3>
+<h2 align="center">🤜 Group 🤛</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -31,7 +31,7 @@
 </p>
 
 
-<h3 align="center">🚀 Skills</h3>
+<h2 align="center">🚀 Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=html5&logoColor=white" /> 
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-<h3 align="center">🛠️ Tools I Use 🛠️</h3>
+<h2 align="center">🛠️ Tools I Use 🛠️</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=spotify&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=spotify&logoColor=white" />
@@ -56,7 +56,7 @@
 </p>
 
 
-<h3 align = "center">⚡ Database </h3>
+<h2 align = "center">⚡ Database </h2>
 <p align="center">
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
@@ -64,14 +64,14 @@
 
 
 
-<h3 align="center">👩‍💻 IDE</h3>
+<h2 align="center">👩‍💻 IDE</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-<h3 align="center">🥅 Other </h3>
+<h2 align="center">🥅 Other </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
@@ -87,7 +87,7 @@
   <summary>
   ETC
   </summary>
-  <h3 align="center">🎮 Games</h3>
+  <h2 align="center">🎮 Games</h2>
   <p align="center">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
     <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white"/>
