@@ -16,7 +16,7 @@
 <h2 align="center">📱 Contact with me 📱</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/soomin-choi-965544342"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/chiosoom/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/chiosoom/"/></a>&nbsp
+  <a href="https://www.instagram.com/choisoom/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/choisoom/"/></a>&nbsp
   <a href="mailto:csm0062@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=csm0062@gmail.com"/></a>
   <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
 </p>
