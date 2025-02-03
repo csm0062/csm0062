@@ -95,9 +95,7 @@
 </details>
 
 
-
   <img src="https://github.com/csm0062/csm0062/blob/output/github-snake-dark.svg" width="100%">
-
 ---
 
 > "Keep it simple, keep it fun!" 😊
