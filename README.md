@@ -15,7 +15,8 @@
 
 <h2 align="center">📱 Contact with me 📱</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/soomin-choi-965544342"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!--   <a href="https://www.linkedin.com/in/soomin-choi-965544342"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
+  <a href="https://scalloped-dead-b1f.notion.site/PORTFOLIO-1356e8776f7f802cad9acccedeb0f96d"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <a href="https://www.instagram.com/choisoom/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/choisoom/"/></a>&nbsp
   <a href="mailto:csm0062@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=csm0062@gmail.com"/></a>
   <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
@@ -70,13 +71,6 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
-
-<h2 align="center">🥅 Other </h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-
-
 
  ## 📊 GitHub Stats
   ![Soomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=csm0062&show_icons=true&theme=transparent  )
