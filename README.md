@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&amp;height=200&amp;color=gradient&amp;text=👋%20사용자%20중심의%20개발자!%20I&#39;m%20soomin&amp;animation=twinkling&amp;fontSize=60" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&amp;height=180&amp;color=gradient&amp;text=👋%20사용자%20중심의%20개발자!%20I&#39;m%20soomin&amp;animation=twinkling&amp;fontSize=50" alt="header">
 </p>
 
 
